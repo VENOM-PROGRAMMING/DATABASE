@@ -83,6 +83,13 @@ $ pm2 stop     <app_name|namespace|id|'all'|json_conf>
 $ pm2 restart  <app_name|namespace|id|'all'|json_conf>
 $ pm2 delete   <app_name|namespace|id|'all'|json_conf>
 ```
+
+
+### 🔴🔴🔴 SEARCH OPTION 🔴🔴🔴
+SEARCH IN DATABASE `http://ip:port/search/word`
+
+ADD IN DATABASE     `http://ip:port/add/word`
+
 Finally!
 
 
